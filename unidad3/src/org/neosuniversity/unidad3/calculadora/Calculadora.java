@@ -1,7 +1,7 @@
 package org.neosuniversity.unidad3.calculadora;
 
 /**
- * Created by camus on 05/06/2018.
+ * @author neosuniversity
  */
 public class Calculadora {
 
