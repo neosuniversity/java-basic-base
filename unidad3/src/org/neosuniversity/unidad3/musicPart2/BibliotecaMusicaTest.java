@@ -3,7 +3,7 @@ package org.neosuniversity.unidad3.musicPart2;
 import java.util.Arrays;
 
 /**
- * Created by camus on 02/06/2018.
+ * @author neosuniversity
  */
 public class BibliotecaMusicaTest {
 
