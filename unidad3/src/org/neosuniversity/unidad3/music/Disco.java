@@ -10,7 +10,7 @@ public class Disco {
     private Cantante cantante;
     private Cancion[] lstCanciones;
     private String genero;
-    
+
     //crear constructores
     //crear metodos setters y getters
 }

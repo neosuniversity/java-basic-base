@@ -23,7 +23,7 @@ public class BibliotecaMusicaTest {
 
     }
     public static  void procesaBiblioteca(BibliotecaMusica biblioteca){
-        Disco[] discos= biblioteca.getLstDiscos();
+       /* Disco[] discos= biblioteca.getLstDiscos();
 
         for(int i=0;i < discos.length;i++){
             Disco disco = discos[i];
@@ -32,20 +32,20 @@ public class BibliotecaMusicaTest {
             for(int j=0; j< canciones.length;j++){
                 imprimeCanciones(canciones[j],j);
             }
-        }
+        }*/
     }
 
 
     public static void imprimeTotalDiscos(BibliotecaMusica biblioteca){
-        System.out.println("Numero de discos en la biblioteca: " + biblioteca.getLstDiscos().length);
+        //System.out.println("Numero de discos en la biblioteca: " + biblioteca.getLstDiscos().length);
     }
 
     public static void imprimeDisco(Disco disco, int contador){
-        System.out.println((contador +1) + " - "+"Disco: " + disco.getNombreDisco().toUpperCase()+ " #Cantante: " +disco.getCantante().getNombreCantante().toUpperCase() );
+       // System.out.println((contador +1) + " - "+"Disco: " + disco.getNombreDisco().toUpperCase()+ " #Cantante: " +disco.getCantante().getNombreCantante().toUpperCase() );
     }
 
     public static void imprimeCanciones(Cancion cancion, int contador){
-        System.out.println("\t"+(contador +1) + " - "+"Canción: " +cancion.getNombreCancion().toUpperCase());
+       // System.out.println("\t"+(contador +1) + " - "+"Canción: " +cancion.getNombreCancion().toUpperCase());
     }
 
 }
