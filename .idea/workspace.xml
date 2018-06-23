@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56c418d7-78ff-48dc-a77f-97163333f6d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/ArraysReto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/CadenaSepara.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/CadenaSeparaReto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/Calculos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/CalculosReto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/CuadradoCubo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/CuadradoCuboReto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/HolaMundoJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/MetodosStatic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/neosuniversity/unidad1/Pitagoras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/calculadora/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/calculadora/CalculadoraController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/calculadora/CalculadoraTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/calculadora/calculadora.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/music/BibliotecaMusica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/music/BibliotecaMusicaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/music/Cancion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/music/Cantante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/music/Disco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/musicPart2/BibliotecaMusica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/musicPart2/BibliotecaMusicaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/musicPart2/Cancion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/musicPart2/Cantante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-basic-base/org/neosuniversity/unidad3/musicPart2/Disco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad3/out/production/unidad3/org/neosuniversity/unidad3/calculadora/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad3/out/production/unidad3/org/neosuniversity/unidad3/calculadora/CalculadoraController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad3/out/production/unidad3/org/neosuniversity/unidad3/calculadora/CalculadoraTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unidad3/out/production/unidad3/org/neosuniversity/unidad3/calculadora/calculadora.fxml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,13 +59,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BibliotecaMusicaTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BibliotecaMusicaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unidad3/src/org/neosuniversity/unidad3/music/BibliotecaMusicaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
+            <state relative-caret-position="357">
               <caret line="21" column="40" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="40" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -75,6 +108,28 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="java-basic-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic-base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-basic-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic-base" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-basic-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic-base" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-basic-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic-base" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="java-basic-base" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="java-basic-base" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -231,13 +286,13 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32930845" />
+      <window_info anchor="bottom" id="Messages" weight="0.32930845" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3402854" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3402854" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -358,10 +413,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unidad3/src/org/neosuniversity/unidad3/music/BibliotecaMusicaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
+        <state relative-caret-position="357">
           <caret line="21" column="40" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="40" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
